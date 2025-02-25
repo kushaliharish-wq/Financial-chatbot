@@ -1,0 +1,28 @@
+# Ignore environment variables
+.env
+
+# Ignore Python virtual environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Terraform files
+.terraform/
+**/.terraform/*
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfstate.*
+.terraform.lock.hcl
+tfplan
+*.tfvars
+crash.log
+
+# Streamlit & local cache files
+.streamlit/
+.history/
