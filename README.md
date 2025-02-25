@@ -90,14 +90,13 @@ Create a .env file in the root directory and add:
 
 ## Screenshots  
 
+![Chatbot UI](screenshots/screenshot3.png)
+
+![Chatbot UI](screenshots/screenshot1.png)  
 
 ![Chatbot UI](screenshots/screenshot2.png)  
 
 
-![Chatbot UI](screenshots/screenshot3.png)  
-
-
-![Chatbot UI](screenshots/screenshot1.png)  
 
 🛡️ Security Best Practices
     
