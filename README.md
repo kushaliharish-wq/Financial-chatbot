@@ -1,5 +1,4 @@
 # Financial-chatbot
-Financio is an AI-powered chatbot designed to help users track their finances, suggest optimal spending limits, and provide personalized insights based on previous transaction history.  Resources
 
 Financio is an AI-powered RAG chatbot designed to help users track their finances, and provide personalized insights based on previous transaction history. This system integrates:
 
